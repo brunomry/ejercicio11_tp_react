@@ -27,7 +27,7 @@ const FormularioNoticias = () => {
         <Form className="form pt-3 pt-md-5">
           <Form.Group
             as={Row}
-            className="mb-2 mb-md-3 d-flex justify-content-center h-100"
+            className="mb-2 mb-md-3 d-flex justify-content-center"
           >
             <Form.Label column sm="4">
               Buscar por categoría:
