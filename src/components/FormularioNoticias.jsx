@@ -24,7 +24,7 @@ const FormularioNoticias = () => {
   return (
     <>
       <section className="sectionForm mx-auto px-2 rounded-3 bg-white ">
-        <Form className="form pt-5">
+        <Form className="form pt-3 pt-md-5">
           <Form.Group
             as={Row}
             className="mb-2 mb-md-3 d-flex justify-content-center h-100"
